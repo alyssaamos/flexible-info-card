@@ -54,8 +54,8 @@ li  {
  }
 
  a {
-   background-color: ;
-   color: ;
-   text-decoration: ;
-   padding: 5rem 1rem .6rem;
+   background-color: #444;
+   color: white;
+   text-decoration: none;
+   padding: .5rem 1rem .6rem;
  }
